@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar servidor",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}\\server.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "externalConsole": true
+    },
+    {
+      "name": "Executar cliente",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}\\client.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "externalConsole": true
+    }
+  ]
+}
