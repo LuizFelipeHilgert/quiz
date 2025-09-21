@@ -1,0 +1,7 @@
+Qual a capital do Brasil?;brasilia
+Quanto é 17 + 217?;234
+Quantos jogadores compõem um time de futebol em campo?;11
+Qual idioma é falado na Suiça?;alemao 
+Qual lugar da Alemanha está localizado a marca de carro Porsche?;stuttgart
+Qual foi a primeira linguagem de programação de alto nível?;plankalkuel
+O que é uma rede local?;lan
